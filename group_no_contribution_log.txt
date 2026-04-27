@@ -1,20 +1,21 @@
-ecf2226 - Prabhath - 2026-04-28 - add hurdle requirement
-708adfe - Front-end Developer - 2026-04-28 - update table content
-b5edc89 - UI Designer - 2026-04-28 - update header color
-2f830fa - OopsItsPB - 2026-04-28 - Merge add-unit-content
-4b050d6 - OopsItsPB - 2026-04-28 - Merge add-table
-1ab2611 - Prabhath - 2026-04-28 - add unit content and fee link
-d591da0 - Front-end Developer - 2026-04-28 - add table
-53a093e - UI Designer - 2026-04-28 - add new header and logo
-dd3e285 - azadehghn - 2023-03-27 - Update main.css
-49bcf51 - azadehghn - 2023-03-27 - Update index.html
-cda79a8 - azadehghn - 2023-03-27 - Delete logo.svg
-3feed37 - azadehghn - 2023-03-27 - Delete logo.png
-fea9c3e - azadehghn - 2023-03-26 - Merge branch 'add-header' add header
-20520bf - azadehghn - 2023-03-26 - add color
-f922655 - azadehghn - 2023-03-26 - add file
-5bfabcc - azadehghn - 2023-03-26 - add logo deakin
-f3348a5 - azadehghn - 2023-03-26 - update file
-0804188 - azadehghn - 2023-03-26 - add table
-aa1685e - azadehghn - 2023-03-26 - Add html and css files
-1811b82 - azadehghn - 2023-03-26 - Initial commit
+c417d00 - OopsItsPB - 2026-04-28 - feat: add group contribution log file tracking project history
+06fb8b7 - Prabhath - 2026-04-28 - add hurdle requirement
+d460755 - Saneeth - 2026-04-28 - update table content
+5d707b3 - Mukesh - 2026-04-28 - update header color
+ee16a04 - OopsItsPB - 2026-04-28 - Merge add-unit-content
+93f0532 - OopsItsPB - 2026-04-28 - Merge add-table
+653c743 - Prabhath - 2026-04-28 - add unit content and fee link
+00d059b - Saneeth - 2026-04-28 - add table
+fa7b6c2 - Mukesh - 2026-04-28 - add new header and logo
+02ce157 - azadehghn - 2023-03-27 - Update main.css
+f76687b - azadehghn - 2023-03-27 - Update index.html
+8a659cf - azadehghn - 2023-03-27 - Delete logo.svg
+4c1353c - azadehghn - 2023-03-27 - Delete logo.png
+9b5e17e - azadehghn - 2023-03-26 - Merge branch 'add-header' add header
+2324367 - azadehghn - 2023-03-26 - add color
+8c6822b - azadehghn - 2023-03-26 - add file
+1e5390f - azadehghn - 2023-03-26 - add logo deakin
+8fa76d1 - azadehghn - 2023-03-26 - update file
+e1a9680 - azadehghn - 2023-03-26 - add table
+4f39db5 - azadehghn - 2023-03-26 - Add html and css files
+3ed1d0e - azadehghn - 2023-03-26 - Initial commit

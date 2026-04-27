@@ -1,0 +1,62 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\title{SIT223-SIT753 Sprint 1 Group Task \\ \large Version Control Report}
+\author{Team Leader: Prabhath}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+This report outlines the version control processes and collaborative efforts undertaken during Sprint 1 of the SIT223-SIT753 Unit Page development. The team utilized Git and GitHub to branch, develop features independently, and merge them into the centralized project repository.
+
+\section{Methodology and Roles}
+The project was divided into three primary roles. Each member branched off \texttt{main}, implemented their respective features, and merged their contributions:
+\begin{itemize}
+    \item \textbf{UI Designer:} Created the \texttt{add-header} branch. Added the Deakin logo, header layout, and corresponding styling.
+    \item \textbf{Front-end Developer:} Created the \texttt{add-table} branch. Built the unit details table with specific trimester dates, enrolment modes, and zebra-striping CSS.
+    \item \textbf{Team Leader (Prabhath):} Created the \texttt{add-unit-content} branch. Added unit descriptions, fee links, and hurdle requirements. Managed the overarching GitHub repository workflow.
+\end{itemize}
+
+\section{Execution and Merging}
+All team members successfully checked out from \texttt{main}, applied their respective changes, and merged them back. Any consecutive merge conflicts (such as overlapping CSS styles in \texttt{main.css}) were manually resolved to ensure a stable, cleanly formatted final product. Following the merges, each team member made a final autonomous commit to refine the aesthetics and content.
+
+\section{Repository Insights}
+
+\subsection{Contributors Graph}
+The following image displays the Contributions Graph, verifying the commits made by each respective team role over the sprint.
+
+\begin{figure}[htb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{1.png}
+    \caption{GitHub Contributors Graph}
+    \label{fig:contributors}
+\end{figure}
+
+\subsection{Network Graph}
+The Network Graph below visualizes the git history, clearly illustrating where the three parallel branches (\texttt{add-header}, \texttt{add-table}, and \texttt{add-unit-content}) diverged and when they were subsequently merged back into \texttt{main}.
+
+\begin{figure}[htb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{2.png}
+    \caption{GitHub Network Graph}
+    \label{fig:network}
+\end{figure}
+
+\section{Project Management (Trello)}
+The team utilized a Trello board to assign tasks, assign roles, and track the progress of the Sprint 1 requirements.
+
+\begin{figure}[htb]
+    \centering
+    \includegraphics[width=0.8\textwidth]{3.png}
+    \caption{Sprint 1 Trello Board Status}
+    \label{fig:trello}
+\end{figure}
+
+\end{document}
